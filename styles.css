@@ -1,1 +1,48 @@
 /*  your css code here. If applicable */
+table{
+	border:1px solid black;
+	border-spacing:1px;
+}
+
+td{
+	padding:1px;
+	border:1px solid black;
+}
+
+.middle{
+	margin: auto;
+	width: 60%;
+}
+
+.left{
+	width:150px;
+}
+
+.center{
+	text-align:center;
+	width:150px
+}
+
+.right{
+	text-align:right;
+	width:150px
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+#table-1,#table-2,#table-3{
+	width:500px;
+	height:100px;
+}
+
+/* img{
+	display:center;
+	height:100%;
+	width:100%;
+} */
